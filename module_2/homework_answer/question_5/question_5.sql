@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS "March_2021_yellow_count" FROM yellow_tripdata WHERE filename ~ '^yellow_tripdata_2021-03';

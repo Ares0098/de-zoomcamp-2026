@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS "2020_yellow_count" FROM yellow_tripdata WHERE filename ~ '^yellow_tripdata_2020';
